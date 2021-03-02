@@ -101,7 +101,7 @@ a:focus {
 
 /*Req 5*/
 .container{
-  display: inline;
+  display: grid;
   grid-template-columns: 1fr 3fr 3fr 1fr;
   grid-auto-rows: auto auto auto auto;
   justify-content: space-between;
